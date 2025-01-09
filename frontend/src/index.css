@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	font-family: 'cursive',-apple-system, BlinkMacSystemFont, 'Segoe UI', 'cursive','Roboto', 'Oxygen',
+		'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+		sans-serif;
+	font-size: 20px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+h6{
+	font-family:'fantasy' ;
+	font-size: 30px;
+}
+
+.MuiDropzoneArea-root {
+	background-color: transparent !important;
+}
+.MuiDropzoneArea-text, .MuiDropzoneArea-icon {
+  color: white !important;
+}
